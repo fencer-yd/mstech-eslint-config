@@ -1,0 +1,37 @@
+{
+  "name": "@mstech-lib/eslint-config",
+  "version": "1.0.20",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "fencer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/m-shu/eslint.git"
+  },
+  "bugs": {
+    "url": "https://gitee.com/m-shu/eslint/issues"
+  },
+  "homepage": "https://gitee.com/m-shu/eslint",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.5.0",
+    "@typescript-eslint/parser": "^4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.11.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-react-app": "^6.0.0",
+    "eslint-config-universe": "^11.0.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-import-resolver-typescript": "^2.5.0",
+    "eslint-import-resolver-webpack": "^0.13.1",
+    "eslint-plugin-flowtype": "^5.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.1.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.3.1"
+  }
+}
